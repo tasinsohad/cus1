@@ -1,0 +1,8 @@
+{
+  "name": "CU Shuttle Tracker",
+  "description": "A mobile-friendly web application to track the University of Chittagong shuttle and allow users to broadcast their device's location as a tracker.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
